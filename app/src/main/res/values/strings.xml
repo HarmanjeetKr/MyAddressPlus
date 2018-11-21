@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyAddressPlus</string>
+    <string name="provinces">provinces</string>
+    <string name="initials">initials</string>
+
+    <string name="menu_delete">Delete</string>
+
+    <string name="no_addrss">Currently there are no Address maintained</string>
+
+    <string name="about">MyAddressPlus is a nice and simple
+        android Application that allows a user to
+        query/insert/update/delete his home address. It is
+        written for android API 28 or newer.
+        It supports Tablets</string>
+</resources>
